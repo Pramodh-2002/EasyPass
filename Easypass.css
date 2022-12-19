@@ -1,0 +1,55 @@
+html,body{
+    background: url(s.jpeg) no-repeat center fixed;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+}
+.fa-facebook{
+   background: rgb(45, 45, 241);
+   color: white;
+   margin-right: 10px;
+}
+.fa {
+  padding: 9px;
+  width: 30px;
+  text-decoration: none;
+  border-radius: 100px;
+}
+
+.fa-twitter{
+  background-color: rgb(8, 142, 231);
+  color: white;
+  margin-right:10px;
+}
+.fa-instagram{
+  background-color: rgb(218, 29, 60);
+  color: white;
+}
+.wrap{
+     height: 50px;
+}
+h1{
+    color: rgba(60, 168, 240, 0.942);
+    font-family: 'Times New Roman', Times, serif;
+}
+.btn {
+    font-weight: 700;
+    text-transform: uppercase;
+    border-radius: 300px;
+  }
+  
+  .btn-primary {
+    background-color: rgba(60, 168, 240, 0.942);
+    border-color: rgba(60, 168, 240, 0.942);
+  }
+  
+  .btn-primary:hover {
+    background-color: rgba(60, 168, 240, 0.942);
+    border-color: rgba(60, 168, 240, 0.942);
+    transform: scale(1.1);
+    cursor: pointer;
+  }
+  
+  .btn-xl {
+    padding: 1rem 2rem; 
+  }
